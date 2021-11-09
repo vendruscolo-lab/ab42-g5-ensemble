@@ -6,7 +6,7 @@ This repository contains the full code to reproduce our results of kinetic ensem
 We used the same Google compute engine instance as for the previous work. Conda environments for training (`env-tf.txt`) and analysis (`env-analysis.txt`) are provided, although we strongly recommend using a custom tensorflow install.
 
 ## Dataset
-The full dataset will be uploaded to Zenodo.
+The full dataset is available on [zenodo](https://zenodo.org/record/5659241).
 
 ## Notebooks
 See our previous work on how to handle the notebooks. They contain the following:
