@@ -1,6 +1,6 @@
 # A small molecule stabilises the disordered native state of the Alzheimer’s Aβ peptide
 
-This repository contains the full code to reproduce our results of kinetic ensembles of amyloid-β 42 with urea and the small molecule 10074-G5. See our [previous work](https://github.com/vendruscolo-lab/ab42-kinetic-ensemble) for details on the method and the original unbound ensemble.
+This repository contains the full code to reproduce our [results of kinetic ensembles of amyloid-β 42 with urea and the small molecule 10074-G5](https://www.biorxiv.org/content/10.1101/2021.11.10.468059v1). See our [previous work](https://github.com/vendruscolo-lab/ab42-kinetic-ensemble) for details on the method and the original unbound ensemble.
 
 ## Reproducibility information
 We used the same Google compute engine instance as for the previous work. Conda environments for training (`env-tf.txt`) and analysis (`env-analysis.txt`) are provided, although we strongly recommend using a custom tensorflow install.
